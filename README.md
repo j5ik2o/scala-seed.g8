@@ -1,6 +1,9 @@
-# A Giter8 template for sbt with scalafmt.
+# A Giter8 template for Scala seed project.
 
-Create a new project to support scalafmt(Enable formatting on compile) and Scala seed using giter8:
+Create a new project to support followings using giter8:
+
+- Scala seed files.
+- Compile with Formatting by Scalafmt
 
 ## preparing
 
